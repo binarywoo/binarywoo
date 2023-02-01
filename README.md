@@ -55,4 +55,4 @@ or <a href="mailto:binarywoo@gmail.com"><b>email</b></a> me
 [![Email](https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:binarywoo@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/______.0911/)
 [![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=100000544730099)
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/KIxdY18mLrGoddp)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/_binarywoo)
